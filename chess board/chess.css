@@ -1,0 +1,28 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    display: flex;
+   flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    
+}
+
+.con > .black{
+    height: 200px;
+    width: 200px;
+    border: 8px solid black;
+    background-color: black;
+    
+}
+.con > .white{
+    height: 200px;
+    width: 200px;
+    border: 8px solid black;
+    background-color: white;
+    
+}
